@@ -1,1 +1,1 @@
-"# Game-KidDay" 
+# Game-KidDay
